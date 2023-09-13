@@ -5,6 +5,7 @@
 ---
 
 **1)** Obter o título em português e a duração de todos os filmes cadastrados no banco de dados.  
+
 ![image](https://github.com/CodyKoInABox/selectDB/assets/125526050/2211bea2-d0c8-43ef-a299-303b551c0b46)  
 ![image](https://github.com/CodyKoInABox/selectDB/assets/125526050/71cb9bb2-d33f-47be-9b37-8390d802a123)
 
@@ -12,19 +13,22 @@
 
 ---
 
-**2)** Obter o(s) código(s) e o nome do(s) ator(es) que possui(em) idade entre 35 e 40 anos.  
+**2)** Obter o(s) código(s) e o nome do(s) ator(es) que possui(em) idade entre 35 e 40 anos. 
+
 ![image](https://github.com/CodyKoInABox/selectDB/assets/125526050/0a4c9492-bbf3-4def-aaa7-a3eb3b363775)
 
 
 ---
 
 **3)** Obter as diferentes nacionalidades dos atores cadastrados no BD.  
+
 ![image](https://github.com/CodyKoInABox/selectDB/assets/125526050/d2ab89b6-3a73-481e-b114-b3cd3b2bb83d)
 
 
 ---
 
 **4)** Obter o nome dos atores, nacionalidades e idades.  
+
 ![image](https://github.com/CodyKoInABox/selectDB/assets/125526050/ee24ce08-4dd3-4eef-9a2c-6776cbe1a435)
 
 
