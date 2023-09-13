@@ -1,5 +1,7 @@
 # Exercicio de Select da materia de Banco de Dados
 
+#### [Banco de Dados Base para o exercicio.](./cinema.sql)
+
 ---
 
 **1)** Obter o título em português e a duração de todos os filmes cadastrados no banco de dados.
