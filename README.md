@@ -4,7 +4,11 @@
 
 ---
 
-**1)** Obter o título em português e a duração de todos os filmes cadastrados no banco de dados.
+**1)** Obter o título em português e a duração de todos os filmes cadastrados no banco de dados.  
+![image](https://github.com/CodyKoInABox/selectDB/assets/125526050/2211bea2-d0c8-43ef-a299-303b551c0b46)  
+![image](https://github.com/CodyKoInABox/selectDB/assets/125526050/71cb9bb2-d33f-47be-9b37-8390d802a123)
+
+
 
 ---
 
