@@ -1,35 +1,34 @@
-SHOW TABLES
 
--- @BLOCK
-SELECT * FROM ator
 
--- @BLOCK
-SELECT * FROM filme
+--@block
+SELECT * FROM filme;
 
--- @BLOCK
-SELECT * FROM elenco
-
--- @BLOCK
+--@block EXERCICIO 1
 SELECT tituloP AS Titulo, duracao AS Duracao
-FROM filme
+FROM filme;
 
--- @BLOCK
+--@block
+SELECT * from ator;
+
+--@block EXERCICIO 2
 SELECT cod_ator AS Codigo, nome AS Nome
-FROM ator AS a
-WHERE a.idade > 35 && a.idade < 40
+FROM ator
+WHERE idade >= 35 AND idade <=40;
 
--- @BLOCK
+--@block EXERCICIO 3
 SELECT DISTINCT nacionalidade AS Nacionalidade
-FROM ator
+FROM ator;
 
--- @BLOCK
-SELECT
-nome AS Nome,
-nacionalidade AS Nacionalidade,
-idade AS Idade
-FROM ator
+--@block EXERCICIO 4
+SELECT nome AS Nome, idade AS Idade, nacionalidade AS Nacionalidade
+FROM ator;
 
--- @BLOCK
-SELECT tituloO AS Titulo
-FROM filme AS f INNER JOIN elenco AS e
+--@block
+SELECT * from elenco;
+
+--@block EXERCICIO 5
+SELECT tituloO AS Nome FROM filme f INNER JOIN elenco e
 ON f.cod_filme = e.cod_filme
+INNER JOIN ator a
+ON e.cod_ator = a.cod_ator
+WHERE a.nome = "jim carrey";
