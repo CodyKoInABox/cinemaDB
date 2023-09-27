@@ -146,6 +146,15 @@ Resultado:
 
 **12)** Obter o nome do cinema e o horário da sessão que está passando o em que atua o Lazaro Ramos.
 
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/28644306-d8c2-4dc1-95ec-76d6c61a6a5a)
+
+<details>
+  <summary>Resultado</summary>
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/31c02c35-f18e-4676-81f5-673084d7d471)
+
+</details>
+
 ---
 
 **13)** Obter o gênero dos filmes que o Jim Carrey atuou.
