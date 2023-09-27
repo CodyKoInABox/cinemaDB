@@ -2,10 +2,16 @@
 SELECT * FROM filme;
 
 --@block
-SELECT * from elenco;
+SELECT * FROM elenco;
 
 --@block
-SELECT * from ator;
+SELECT * FROM ator;
+
+--@block
+SELECT * FROM cinema;
+
+--@block
+SELECT * FROM sessao;
 
 --@block EXERCICIO 1
 SELECT tituloP AS Titulo, duracao AS Duracao
@@ -90,3 +96,14 @@ INNER JOIN ator a
 ON e.cod_ator = a.cod_ator
 WHERE a.nome = "brad pitt"
 AND f.pais_origem = "estados unidos";
+
+--@block EXERCICIO 12
+SELECT c.nome AS Nome, TIME(s.dthr) AS Horario
+FROM cinema c
+INNER JOIN sessao s
+ON c.cod_cinema = s.cinema
+INNER JOIN elenco e
+ON s.filme = e.cod_filme
+INNER JOIN ator a
+ON e.cod_ator = a.cod_ator
+WHERE a.nome = "lazaro ramos";
