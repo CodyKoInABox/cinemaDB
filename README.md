@@ -36,9 +36,13 @@
 
 **6)** Obter o nome dos atores que não atuam em nenhum filme.
 
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/fbb49175-7a4f-489c-9168-be00396254bc)
+
 ---
 
 **7)** Obter o código e o nome dos filmes em que Tom Hanks não atua.
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/d1a1354b-c498-4c6a-bf7b-286f935762eb)
 
 ---
 
