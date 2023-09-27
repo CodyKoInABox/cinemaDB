@@ -94,17 +94,53 @@ Resultado:
 
 **8)** Obter o número de filmes em que atuou George Clooney.
 
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/a3ef7a3a-1ca7-4b90-9ce0-e818a24223e5)
+
+<details>
+  <summary>Resultado</summary>
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/004d827f-1e56-414e-9823-201920018da7)
+
+</details>
+
 ---
 
 **9)** Obter o nome dos atores que atuaram no filme “Onze Homens e um segredo”.
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/6ce0e895-4380-404a-8c01-6c9c84480543)
+
+<details>
+  <summary>Resultado</summary>
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/314e7f1e-c98a-4688-8902-21c8af587d3b)
+
+</details>
 
 ---
 
 **10)** Obter a soma da duração de todos os filmes que Angeline Jolie atuou.
 
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/a5c1725f-dd83-4191-a368-2cdf2d5923b7)
+
+<details>
+  <summary>Resultado</summary>
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/d48ea1d3-71aa-4188-bd2d-3d9d1b4febb2)
+
+</details>
+
 ---
 
 **11)** Obter o nome dos filmes que Brad Pitt atuou e que são de origem americana.
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/b0936200-971f-4569-bb48-b2b46c32d49c)
+
+<details>
+  <summary>Resultado</summary>
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/349468b4-25fd-43f2-9755-2283b447182e)
+
+</details>
 
 ---
 
