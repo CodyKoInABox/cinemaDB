@@ -183,4 +183,13 @@ Resultado:
 
 ---
 
-**15)** Obter o(s) titulo(s) dos filmes que tem censura livre e que estão sendo projetados no cinema Central cujo sala tem capacidade para mais de 150 pessoas. 
+**15)** Obter o(s) titulo(s) dos filmes que tem censura livre e que estão sendo projetados no cinema Central cujo sala tem capacidade para mais de 150 pessoas.
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/a668be5c-b5dd-474a-8716-2a116211e9e3)
+
+<details>
+  <summary>Resultado</summary>
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/af88f9c4-0b03-4699-b1a8-da80b124c6da)
+
+</details>
