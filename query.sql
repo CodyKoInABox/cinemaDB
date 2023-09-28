@@ -130,3 +130,14 @@ ON f.cod_filme = e.cod_filme
 INNER JOIN ator a
 ON e.cod_ator = a.cod_ator
 WHERE f.pais_origem = "brasil";
+
+--@block EXERCICIO 15
+SELECT f.tituloP AS Titulo
+FROM filme f
+INNER JOIN sessao s
+ON f.cod_filme = s.filme
+INNER JOIN cinema c
+ON s.cinema = c.cod_cinema
+WHERE c.nome = "central"
+AND c.capacidade >= 150
+AND f.impropriedade = "livre";
