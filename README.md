@@ -159,9 +159,27 @@ Resultado:
 
 **13)** Obter o gênero dos filmes que o Jim Carrey atuou.
 
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/d084516c-36b7-40f1-b343-57a304068d8b)
+
+<details>
+  <summary>Resultado</summary>
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/5f17db83-6395-4437-b9aa-a8ce7bb7be30)
+
+</details>
+
 ---
 
 **14)** Obter o título dos filmes e o nome dos atores que atuaram nele, cujo país de origem e o Brasil.
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/ef7d2092-ab58-4ecf-bcad-bf2a3d19c3e6)
+
+<details>
+  <summary>Resultado</summary>
+
+![image](https://github.com/CodyKoInABox/cinemaDB/assets/125526050/45c432eb-0b31-4a6d-a07a-8883df8dc1dc)
+
+</details>
 
 ---
 
