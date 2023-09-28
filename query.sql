@@ -13,6 +13,9 @@ SELECT * FROM cinema;
 --@block
 SELECT * FROM sessao;
 
+--@block
+SELECT * FROM genero;
+
 --@block EXERCICIO 1
 SELECT tituloP AS Titulo, duracao AS Duracao
 FROM filme;
@@ -107,3 +110,23 @@ ON s.filme = e.cod_filme
 INNER JOIN ator a
 ON e.cod_ator = a.cod_ator
 WHERE a.nome = "lazaro ramos";
+
+--@block EXERCICIO 13
+SELECT g.descricao AS Genero
+FROM genero g
+INNER JOIN filme f
+ON g.cod_genero = f.genero
+INNER JOIN elenco e
+ON f.cod_filme = e.cod_filme
+INNER JOIN ator a
+ON e.cod_ator = a.cod_ator
+WHERE a.nome = "jim carrey";
+
+--@block EXERCICIO 14
+SELECT f.tituloP AS Filme, a.nome AS Ator
+FROM filme f
+INNER JOIN elenco e
+ON f.cod_filme = e.cod_filme
+INNER JOIN ator a
+ON e.cod_ator = a.cod_ator
+WHERE f.pais_origem = "brasil";
